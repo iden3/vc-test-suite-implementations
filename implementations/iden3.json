@@ -13,9 +13,11 @@
         }
       ],
       "notFound": [
-        {
-          "did": "did:iden3:polygon:main:wpaFHwfPYjVnimeX1gSxvxonmQ1NG66AcAPPbDWn8?state=0000000000000000000000000000000000000000000000000000000000000001",
-          "resolutionOptions": {}
+       {
+          "did": "did:iden3:polygon:main:wpaFHwfPYjVnimeX1gSxvxonmQ1NG66AcAPPbDWn8",
+          "resolutionOptions": {
+            "state": "0000000000000000000000000000000000000000000000000000000000000001"
+          }
         }
       ]
     }
