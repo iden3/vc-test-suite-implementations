@@ -1,0 +1,19 @@
+{
+  "name": "iden3 DID Method",
+  "implementation": "iden3 DID Method",
+  "didResolvers": [{
+    "id": "",
+    "endpoint": "https://resolver.privado.id/1.0/identifiers",
+    "tags": ["did-key", "did-resolution"],
+    "supportedDids": {
+      "valid": [
+        {
+          "did": "did:iden3:polygon:main:wpaFHwfPYjVnimeX1gSxvxonmQ1NG66AcAPPbDWn8",
+          "resolutionOptions": {}
+        }
+      ],
+      "notFound": [],
+      "deactivated": []
+    }
+  }]
+}
