@@ -1,6 +1,6 @@
 {
-  "name": "iden3 DID Method",
-  "implementation": "iden3 DID Method",
+  "name": "iden3",
+  "implementation": "iden3 Resolver",
   "didResolvers": [{
     "id": "https://www.privado.id",
     "endpoint": "https://resolver.privado.id/1.0/identifiers",
